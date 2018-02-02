@@ -18,20 +18,20 @@ IMPORTANT: Links must be HTTPS!
 /* ========== CUSTOMIZABLE VARIABLES ========== */
 :root {
     /* COLOURS */
-	--main-color: #ff8080;
-	--hover-color: #ffb3b3;
-	--channel-color: #ffe6e6;
+	--main-color: #547591;
+	--hover-color: #eff5f9;
+	--channel-color: #2b445b;
 	
     /* IMAGES */
-	--background-image: url(https://puu.sh/w1xpD/0e5ba7ec1b.jpg);	
-	--dm-image: url(https://puu.sh/vZu6N/f9ee8029ee.png);	
+	--background-image: url(https://img00.deviantart.net/822d/i/2011/225/5/9/hedwig_by_whitespiritwolf-d46e2k1.png);	
+	--dm-image: url(https://cdn.shopify.com/s/files/1/0923/4976/products/828.jpg?v=1502852661);	
 	--profile-image: url(https://puu.sh/y8EHj/1d77073c7c.gif);
 	--nsfw-image: url(https://puu.sh/zbsiF/9b67596e0e.png);
 	
     /* MISC */
 	--background-blur: 0px;
-	--background-brightness: 87%;
-	--emoji-size: 50px;
+	--background-brightness: 90%;
+	--emoji-size: 20px;
 }
 /* ORIGINAL: --main-color: #ff8080;--hover-color: #ffb3b3;--channel-color: #ffe6e6;--background-image: url(https://puu.sh/w1xpD/0e5ba7ec1b.jpg);--dm-image: url(https://puu.sh/vZu6N/f9ee8029ee.png);--profile-image: url(https://puu.sh/y8EHj/1d77073c7c.gif);--nsfw-image: url(https://puu.sh/zbrR0/f770ed351a.jpeg);--background-blur: 0px;--background-brightness: 87%;--emoji-size: 50px; (in case you want to change it back) */
 /*
